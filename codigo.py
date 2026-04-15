@@ -1,5 +1,5 @@
-nombre = "Emilio Felipe - Tecnofil xd "
-Apellido = "Gutierrez"
+nombre = "Davisita - Tecnofil xd "
+Apellido = "Nuievo lider"
 
 print("Hola " + nombre + " "+ Apellido+ " Como estas")
 
